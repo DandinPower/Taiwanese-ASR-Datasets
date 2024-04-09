@@ -1,0 +1,4 @@
+venv
+datasets
+hf_datasets/data
+hf_datasets/metadata.csv
